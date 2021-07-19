@@ -8,8 +8,10 @@ https://twitter.com/vm_call/status/1405937492642123782 -> QR code. and hostapd s
 
 ## stop for configuration
 
-`sudo systemctl stop hostapd`
-`sudo systemctl stop dnsmasq`
+```
+sudo systemctl stop hostapd
+sudo systemctl stop dnsmasq
+```
 
 ## get your wireless interface name
 
